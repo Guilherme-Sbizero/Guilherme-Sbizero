@@ -2,7 +2,7 @@
 
 <div>
 
-<a  href="https://github.com/GuilhermeSbizero0804">
+<a  href="https://github.com/Guilherme-Sbizero">
 
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=GuilhermeSbizero0804&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
@@ -10,7 +10,7 @@
 
 </div>
 
-<div  style="display: inline_block"><br>
+<div  style="display: inline_block">
 
 <img align="center"  alt="Gui-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
