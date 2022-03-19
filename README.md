@@ -12,17 +12,25 @@
 
 <div  style="display: inline_block">
 
-<img align="center"  alt="Gui-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
 <img align="center"  alt="Gui-HTML"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 <img align="center"  alt="Gui-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
+<img align="center"  alt="Gui-CSS"  height="30"  width="40"  src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  
+<img align="center"  alt="Gui-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+<img align="center"  alt="Gui-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  
+<img align="center"  alt="Gui-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  
+//<img align="center"  alt="Gui-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 <img align="center"  alt="Gui-Java"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 <img align="center"  alt="Gui-Python"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<img align="center"  alt="Gui-C"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center"  alt="Gui-C#"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg.svg">
 
 <img align="center"  alt="Gui-Myql"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  
