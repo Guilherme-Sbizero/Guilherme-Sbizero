@@ -23,6 +23,9 @@
 <img align="center"  alt="Gui-Python"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
+<img align="center"  alt="Gui-C"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+  
 ##
 
 <div>
