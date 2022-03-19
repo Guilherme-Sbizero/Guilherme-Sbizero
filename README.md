@@ -24,7 +24,7 @@
 
 <img align="center"  alt="Gui-C"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-<img align="center"  alt="Gui-MYSQL"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+<img align="center"  alt="Gui-Sql"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
 </div>
   
 ##
