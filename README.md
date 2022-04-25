@@ -24,6 +24,18 @@
   
 <img align="center"  alt="Gui-Python"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
+<img align="center"  alt="Gui-Angular"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+
+<img align="center"  alt="Gui-Vue"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+
+<img align="center"  alt="Gui-React Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+<img align="center"  alt="Gui-Myql"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+<img align="center"  alt="Gui-Bash"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+
 </div>
   
 ##
