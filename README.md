@@ -1,4 +1,4 @@
-## Oiii! Eu meu nome é Guilherme Augusto Sbizero Correa
+## Oiii! Meu nome é Guilherme Augusto, sou estudante de Ciência da Computação na Universidade Paulista
 
 <div>
 
