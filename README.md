@@ -1,5 +1,7 @@
 ## Oiii! Meu nome é Guilherme Augusto, sou estudante de Ciência da Computação na Universidade Paulista
 
+#Apaixonado pelo desenvolvimento web 
+
 <div>
 
 <a  href="https://github.com/Guilherme-Sbizero">
