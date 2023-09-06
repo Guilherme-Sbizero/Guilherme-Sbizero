@@ -4,7 +4,7 @@
 
 <a  href="https://github.com/Guilherme-Sbizero">
 
-<img width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Sbizero&layout=compact&langs_count=16&theme=cobalt"/>
+<img align="center" width="350" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Sbizero&layout=compact&langs_count=16&theme=cobalt"/>
 
 </div>
 
@@ -21,10 +21,6 @@
 <img align="center"  alt="Gui-Java"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 <img align="center"  alt="Gui-Python"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center"  alt="Gui-Angular"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-
-<img align="center"  alt="Gui-Vue"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 
 <img align="center"  alt="Gui-React Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
