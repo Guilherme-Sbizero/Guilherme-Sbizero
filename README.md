@@ -4,7 +4,7 @@
 
 <a  href="https://github.com/Guilherme-Sbizero">
 
-<img align="center" width="350" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Sbizero&layout=compact&langs_count=16&theme=cobalt"/>
+<img align="center" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Sbizero&layout=compact&langs_count=16&theme=cobalt"/>
 
 </div>
 
