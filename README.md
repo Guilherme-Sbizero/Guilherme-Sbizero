@@ -1,4 +1,4 @@
-## Oiii! Meu nome é Guilherme Augusto, sou estudante de Ciência da Computação na Universidade Paulista
+## Oiii! Meu nome é Guilherme Augusto, estudei de Ciência da Computação na Universidade Paulista.
 
 <div>
 
