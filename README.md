@@ -6,11 +6,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme-Sbizero&theme=cobalt" />
+| Perfil | Linguagens |
+|--------|------------|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme-Sbizero&theme=cobalt" /> | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Sbizero&layout=compact&langs_count=8&theme=cobalt"/> |
 
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Sbizero&layout=compact&langs_count=8&theme=cobalt"/>
 </div>
+
 
 ### 🚀 Tecnologias e Ferramentas  
 
