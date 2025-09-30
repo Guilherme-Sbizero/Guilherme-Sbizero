@@ -6,9 +6,9 @@
 
 <div align="center">
 
-| Perfil | Linguagens |
-|--------|------------|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme-Sbizero&theme=cobalt" /> | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Sbizero&layout=compact&langs_count=8&theme=cobalt"/> |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme-Sbizero&theme=cobalt" /> 
+
+<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Sbizero&layout=compact&langs_count=8&theme=cobalt"/>
 
 </div>
 
